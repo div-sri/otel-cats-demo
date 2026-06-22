@@ -17,3 +17,8 @@ The application logic consists of basic CRUD operations and is intentionally str
 - otel4s
 - mysql
 - docker
+
+### Demo Videos
+
+- [swagger_demo.mp4](docs/swagger_demo.mp4)
+- [grafana_demo.mp4](docs/grafana_demo.mp4)
