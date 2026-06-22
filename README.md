@@ -18,4 +18,4 @@ The application logic consists of basic CRUD operations and is intentionally str
 - mysql
 - docker
 
-[demo_1.mp4](demo/demo_1.mp4)
+[demo.mp4](demo/demo.mp4)
