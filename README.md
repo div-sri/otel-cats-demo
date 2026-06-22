@@ -22,3 +22,13 @@ The application logic consists of basic CRUD operations and is intentionally str
 
 - [swagger_demo.mp4](docs/swagger_demo.mp4)
 - [grafana_demo.mp4](docs/grafana_demo.mp4)
+
+### Steps To Run
+
+```shell
+docker-compose -f local-dev/docker-compose.yml up -d    
+```
+
+```shell
+sbt run   
+```
