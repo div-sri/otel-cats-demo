@@ -17,5 +17,3 @@ The application logic consists of basic CRUD operations and is intentionally str
 - otel4s
 - mysql
 - docker
-
-[demo.mp4](demo/demo.mp4)
